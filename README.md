@@ -2,7 +2,7 @@
 
 Programa de terminal em Pascal para conferir um lote do setor de corte de uma confecção. A ideia é comparar a quantidade prevista com as peças aprovadas e rejeitadas e ver quantas ainda faltam conferir.
 
-É um projeto pessoal de estudo. Os dados usados nos exemplos são fictícios.
+Desenvolvi este projeto a partir da minha experiência no setor de corte de uma indústria têxtil, para representar uma conferência de quantidades por lote.
 
 ## Como compilar e executar
 
